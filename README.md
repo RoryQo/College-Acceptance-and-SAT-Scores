@@ -1,7 +1,5 @@
 # CollegeSAT Analysis
 
-**Author:** Rory Quinlan
-
 ## Table of Contents
 
 1. [Overview](#overview)
