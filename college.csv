@@ -1,0 +1,259 @@
+sat,acc_rate,college
+830,0.88,University of South Dakota
+840,0.92,Indiana University of Pennsylvania
+850,0.86,Texas A&M University--Corpus Christi
+850,0.82,Texas A&M University--Kingsville
+860,0.82,Immaculata University
+860,0.74,University of California--Merced
+860,0.76,Lamar University
+860,0.68,San Francisco State University
+860,0.71,University of the Cumberlands
+870,0.66,Montclair State University
+870,0.72,Sam Houston State University
+875,0.8,University of South Alabama
+880,0.77,Southern Illinois University--Carbondale
+880,0.88,Shenandoah University
+880,0.88,Trinity International University
+890,0.74,Indiana University-Purdue University--Indianapolis
+890,0.72,Central Michigan University
+890,0.91,South Dakota State University
+890,0.88,Cleveland State University
+890,0.85,Old Dominion University
+890,0.94,University of Memphis
+890,0.65,Valdosta State University
+900,0.93,Maryville University of St. Louis
+900,0.83,University of Nevada--Las Vegas
+910,0.65,Rutgers University--Newark
+910,0.84,Suffolk University
+910,0.76,University of Massachusetts--Dartmouth
+910,0.82,Boise State University
+910,0.73,Eastern Michigan University
+910,0.96,University of Akron
+910,0.74,University of North Carolina--Greensboro
+915,0.92,Wichita State University
+920,0.72,University of Hartford
+920,0.75,Bowling Green State University
+920,0.8,East Tennessee State University
+920,0.83,Regent University
+920,0.86,University of Louisiana--Monroe
+920,0.76,University of Texas--San Antonio
+920,0.94,University of Toledo
+930,0.72,Washington State University
+930,0.76,University of Idaho
+930,0.84,Azusa Pacific University
+930,0.76,West Virginia University
+930,0.7,Widener University
+930,0.74,Augusta University
+930,0.89,Portland State University
+930,0.71,Texas State University
+930,0.72,Trevecca Nazarene University
+930,0.77,University of Arkansas--Little Rock
+930,0.86,University of Nebraska--Omaha
+930,0.9,University of Northern Colorado
+930,0.95,Wright State University
+940,0.66,University of California--Riverside
+940,0.8,Robert Morris University
+940,0.84,Pace University
+940,0.78,Northern Arizona University
+940,0.71,University of Missouri--St. Louis
+940,0.6,University of Southern Mississippi
+950,0.94,Kansas State University
+950,0.65,Biola University
+950,0.85,Kent State University
+950,0.9,University of Maine
+950,0.73,University of Alaska--Fairbanks
+950,0.92,University of Montana
+950,0.72,Ashland University
+950,0.6,Florida Atlantic University
+950,0.69,Middle Tennessee State University
+950,0.6,University of New Orleans
+950,0.7,University of Texas--Arlington
+955,0.78,Edgewood College
+960,0.64,Lesley University
+960,0.95,University of Wyoming
+960,0.84,University of North Dakota
+960,0.69,University of Massachusetts--Boston
+960,0.61,University of Colorado--Denver
+960,0.67,Tennessee Technological University
+965,0.89,University of Alabama--Birmingham
+970,0.79,University of Arizona
+970,0.65,St. John Fisher College
+970,0.75,Oklahoma State University
+970,0.8,University of Hawaii--Manoa
+970,0.63,St. Johns University
+970,0.83,University of Nevada--Reno
+970,0.7,East Carolina University
+973,0.82,Cardinal Stritch University
+980,0.78,University of Oregon
+980,0.87,Iowa State University
+980,0.91,University of Kentucky
+980,0.75,Virginia Commonwealth University
+980,0.63,Louisiana Tech University
+980,0.62,University of Missouri--Kansas City
+980,0.9,Utah State University
+980,0.72,University of North Texas
+983,0.68,Wayne State University
+990,0.66,Michigan State University
+990,0.76,University of New Hampshire
+990,0.75,University of Nebraska--Lincoln
+990,0.77,Oregon State University
+990,0.74,University of Illinois--Chicago
+990,0.75,Ohio University
+990,0.87,Seattle Pacific University
+990,0.71,University of Rhode Island
+990,0.71,Mississippi State University
+990,0.58,Rowan University
+990,0.61,Lipscomb University
+990,0.62,Ball State University
+1000,0.35,San Diego State University
+1000,0.78,University of Mississippi
+1000,0.73,University of Louisville
+1000,0.93,North Dakota State University
+1000,0.53,Nova Southeastern University
+1000,0.59,Kennesaw State University
+1010,0.76,Louisiana State University--Baton Rouge
+1010,0.63,University of Arkansas
+1010,0.7,Adelphi University
+1010,0.54,University at Albany--SUNY
+1010,0.83,Montana State University
+1020,0.84,University of Iowa
+1020,0.83,Arizona State University--Tempe
+1020,0.75,University of Missouri
+1020,0.78,Colorado State University
+1020,0.63,Texas Tech University
+1020,0.63,Union University
+1030,0.73,Loyola University Chicago
+1030,0.71,University of San Francisco
+1030,0.66,University of the Pacific
+1030,0.7,DePaul University
+1030,0.6,University of Dayton
+1030,0.6,The New School
+1030,0.76,University of Cincinnati
+1030,0.62,University of North Carolina--Charlotte
+1030,0.43,Dallas Baptist University
+1030,0.49,Florida International University
+1030,0.65,Georgia Southern University
+1040,0.74,Marquette University
+1040,0.77,University of Tennessee
+1040,0.3,Howard University
+1040,0.8,The Catholic University of America
+1040,0.59,University of Houston
+1050,0.42,University of California--Davis
+1050,0.76,University of Utah
+1050,0.52,Temple University
+1050,0.83,University of St. Thomas
+1055,0.74,Duquesne University
+1060,0.41,University of California--Irvine
+1060,0.59,University of California--Santa Cruz
+1060,0.79,Indiana University--Bloomington
+1060,0.71,University of Oklahoma
+1060,0.81,Auburn University
+1060,0.81,George Mason University
+1060,0.61,Florida Institute of Technology
+1060,0.76,University of Alabama--Huntsville
+1070,0.66,Texas A&M University--College Station
+1070,0.38,Texas Christian University
+1070,0.77,University of Colorado--Boulder
+1070,0.54,SUNY College of Environmental Science and Forestry
+1070,0.59,University at Buffalo--SUNY
+1070,0.67,Seton Hall University
+1070,0.62,Hofstra University
+1070,0.47,University of South Florida
+1070,0.6,University of Massachusetts--Lowell
+1073,0.76,Michigan Technological University
+1080,0.56,Purdue University--West Lafayette
+1080,0.75,Drexel University
+1080,0.68,Clarkson University
+1080,0.5,University of Central Florida
+1090,0.56,Pennsylvania State University--University Park
+1090,0.52,Syracuse University
+1090,0.65,University of Delaware
+1090,0.51,Yeshiva University
+1100,0.71,Virginia Tech
+1100,0.51,University of San Diego
+1100,0.69,University of Vermont
+1100,0.69,Mercer University
+1110,0.37,Pepperdine University
+1110,0.57,Rutgers University--New Brunswick
+1110,0.55,Clark University
+1110,0.58,Florida State University
+1110,0.53,University of Denver
+1110,0.59,New Jersey Institute of Technology
+1120,0.45,University of Washington
+1120,0.4,Baylor University
+1120,0.37,University of Tulsa
+1120,0.65,Saint Louis University
+1120,0.68,University of South Carolina
+1120,0.57,University of Maryland--Baltimore County
+1130,0.49,University of Connecticut
+1130,0.6,University of Massachusetts--Amherst
+1130,0.65,Miami University--Oxford
+1130,0.57,Illinois Institute of Technology
+1140,0.36,University of California--Santa Barbara
+1140,0.36,University of California--San Diego
+1140,0.54,University of Georgia
+1140,0.4,University of Texas--Austin
+1140,0.55,Rochester Institute of Technology
+1140,0.68,University of Texas--Dallas
+1150,0.51,Clemson University
+1150,0.26,American University
+1150,0.41,Stony Brook University--SUNY
+1160,0.18,University of California--Los Angeles
+1160,0.54,Ohio State University--Columbus
+1160,0.51,Brigham Young University--Provo
+1170,0.45,Fordham University
+1170,0.46,North Carolina State University--Raleigh
+1180,0.46,University of Florida
+1180,0.4,George Washington University
+1180,0.44,University of Minnesota--Twin Cities
+1190,0.27,University of North Carolina--Chapel Hill
+1190,0.55,University of Pittsburgh
+1200,0.48,Worcester Polytechnic Institute
+1210,0.38,University of Miami
+1210,0.48,University of Maryland--College Park
+1220,0.29,Boston University
+1220,0.44,Villanova University
+1220,0.49,Southern Methodist University
+1230,0.26,Lehigh University
+1230,0.41,Binghamton University--SUNY
+1234,0.53,University of Wisconsin--Madison
+1240,0.3,University of Virginia
+1240,0.3,Wake Forest University
+1250,0.32,New York University
+1250,0.37,College of William and Mary
+1250,0.38,University of Rochester
+1250,0.26,Tulane University
+1250,0.4,Colorado School of Mines
+1260,0.31,Boston College
+1260,0.39,Stevens Institute of Technology
+1270,0.33,Brandeis University
+1280,0.17,University of Southern California
+1280,0.35,Case Western Reserve University
+1280,0.44,Rensselaer Polytechnic Institute
+1290,0.25,Emory University
+1300,0.16,University of California--Berkeley
+1310,0.29,University of Michigan--Ann Arbor
+1320,0.17,Georgetown University
+1320,0.26,Georgia Institute of Technology
+1330,0.14,Cornell University
+1330,0.29,Northeastern University
+1350,0.11,Dartmouth College
+1350,0.19,University of Notre Dame
+1370,0.09,Brown University
+1370,0.14,Tufts University
+1380,0.05,Stanford University
+1380,0.09,University of Pennsylvania
+1380,0.11,Duke University
+1380,0.22,Carnegie Mellon University
+1400,0.07,Princeton University
+1400,0.11,Northwestern University
+1400,0.17,Washington University in St. Louis
+1410,0.15,Rice University
+1420,0.06,Yale University
+1420,0.12,Johns Hopkins University
+1420,0.11,Vanderbilt University
+1430,0.05,Harvard University
+1430,0.06,Columbia University
+1450,0.08,University of Chicago
+1460,0.07,Massachusetts Institute of Technology
+1510,0.06,California Institude of Technology
