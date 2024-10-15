@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Overview](#overview)
+1. [Overview](#overview) 
 2. [Plots and Model Fitting](#plots-and-model-fitting)
    - [Raw Data Analysis](#1-raw-data-analysis)
    - [Transformed Data Analysis](#2-transformed-data-analysis)
